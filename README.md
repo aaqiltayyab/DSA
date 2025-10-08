@@ -6,20 +6,46 @@ Here you'll find clean, well-commented solutions to classic and modern DSA probl
 
 ---
 
-## 📂 Folder Structure
+## 📁 Project Structure
 
-📁 Arrays/
-📁 Strings/
-📁 LinkedList/
-📁 StackQueue/
-📁 Trees/
-📁 Graphs/
-📁 Recursion/
-📁 DynamicProgramming/
-📁 BitManipulation/
-📁 SlidingWindow/
-📁 TwoPointers/
-📁 InterviewPrep/
+```bash
+Decode-Python-DSA/
+├── README.md
+├── curriculum/
+│   ├── 01_basic_syntax/
+│   ├── 02_data_types/
+│   ├── 03_control_flow/
+│   ├── 04_functions_modules/
+│   ├── 05_oops/
+│   ├── 06_exception_handling/
+│   ├── 07_recursion/
+│   ├── 08_complexity_analysis/
+│   ├── 09_sorting_searching/
+│   ├── 10_linked_lists/
+│   ├── 11_stacks_queues/
+│   ├── 12_trees_graphs/
+│   ├── 13_dynamic_programming/
+│   └── 14_hashing/
+├── questions/
+│   ├── topic_wise/
+│   │   ├── sorting_questions.md
+│   │   ├── dp_questions.md
+│   │   └── ...
+│   └── mixed_set/
+│       ├── set1.md
+│       ├── set2.md
+│       └── ...
+├── answers/
+│   ├── topic_wise/
+│   │   ├── sorting_answers.md
+│   │   ├── dp_answers.md
+│   │   └── ...
+│   └── mixed_set/
+│       ├── set1_answers.md
+│       ├── set2_answers.md
+│       └── ...
+└── assets/
+    └── certificate_sample.png
 
 ---
 
@@ -69,7 +95,7 @@ Here you'll find clean, well-commented solutions to classic and modern DSA probl
 
 ## 🤝 Contribute
 
-Feel free to fork, star ⭐, or raise issues!  
+Feel free to fork, star ⭐, or raise issues!
 If you're learning DSA too, let's connect and grow together 🚀
 
 ---
@@ -83,3 +109,4 @@ If you're learning DSA too, let's connect and grow together 🚀
 ---
 
 > “DSA is not just about solving problems, it's about solving them beautifully.” 🌟
+```
