@@ -26,24 +26,6 @@ Decode-Python-DSA/
 │   ├── 12_trees_graphs/
 │   ├── 13_dynamic_programming/
 │   └── 14_hashing/
-├── questions/
-│   ├── topic_wise/
-│   │   ├── sorting_questions.md
-│   │   ├── dp_questions.md
-│   │   └── ...
-│   └── mixed_set/
-│       ├── set1.md
-│       ├── set2.md
-│       └── ...
-├── answers/
-│   ├── topic_wise/
-│   │   ├── sorting_answers.md
-│   │   ├── dp_answers.md
-│   │   └── ...
-│   └── mixed_set/
-│       ├── set1_answers.md
-│       ├── set2_answers.md
-│       └── ...
 └── assets/
     └── certificate_sample.png
 
