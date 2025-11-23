@@ -22,7 +22,7 @@ class Solution:
 
 # --- Tests ---
 obj = Solution()
-print(obj.reverse(123))    # ✅ 321
-print(obj.reverse(-123))   # ✅ -321
-print(obj.reverse(120))    # ✅ 21
-print(obj.reverse(1534236469))  # ✅ 0 (overflow case)
+print(obj.reverse(123))    #  321
+print(obj.reverse(-123))   #  -321
+print(obj.reverse(120))    #  21
+print(obj.reverse(1534236469))  #  0 (overflow case)

@@ -10,5 +10,5 @@ class Solution:
 
 
 # Test
-print(Solution().isPalindrome(121))   # ✅ True
-print(Solution().isPalindrome(123))   # ❌ False
+print(Solution().isPalindrome(121))   #  True
+print(Solution().isPalindrome(123))   #  False
