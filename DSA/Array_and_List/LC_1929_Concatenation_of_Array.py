@@ -29,4 +29,4 @@ print(obj.getConcatenation([1,3,2,1])) #  [1,3,2,1,1,3,2,1]
 
 # Agar nums = [1,2,1] hai → [1,2,1] + [1,2,1] = [1,2,1,1,2,1].
 
-# Ye exactly wahi output deta hai jo problem statement me expected hai.
+# Ye exactly wahi output deta hai jo problem statement me expected hai
