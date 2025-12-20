@@ -1,5 +1,6 @@
 # LeetCode 2154 Keep Multiplying Found Values by two
 
+
 class Solution:
     @staticmethod
     def findFinalValue(nums: list[int], original: int) -> int:
