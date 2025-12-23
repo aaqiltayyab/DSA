@@ -1,4 +1,4 @@
-# Leetcode 485_max_consecutive_oncs
+# Leetcode 485_max_consecutive_ones
 class Solution:
     def findMaxConsecutiveOnes(self, nums: list[int]) -> int:
         max_cons = 0
