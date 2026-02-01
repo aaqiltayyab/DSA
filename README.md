@@ -78,7 +78,7 @@ Decode-Python-DSA/
 ## 🤝 Contribute
 
 Feel free to fork, star ⭐, or raise issues!
-If you're learning DSA too, let's connect and grow together 🚀
+If you're learning DSA too, let's connect and grow together
 
 ---
 
